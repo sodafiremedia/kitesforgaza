@@ -22,7 +22,7 @@ title: The Community Kite Project for Gaza
 email: pawswipe@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog for the Community Kite Project for Gaza
-baseurl: "/kitesforgaza" # the subpath of your site, e.g. /blog
+baseurl: "/about" # the subpath of your site, e.g. /blog
 url: "https://sodafiremedia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "sodafiremedia.github.io"
 
@@ -31,7 +31,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
+# remote_theme: pages-themes/tactile@v0.2.0
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -51,7 +51,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-remote_theme: pages-themes/tactile@v0.2.0
 
 # lsi: false
 # safe: true
