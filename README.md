@@ -8,4 +8,4 @@ Community members are welcome to help fold the kites for display. A suggested do
 
 As we collectively continue to witness, and learn more, about the depth of Israel's crimes, the Community Kite Project for Gaza intends to form a path towards healing and grieving together in order to continue the fight for Palestinian liberation.
 
-Contact pawswipe@protonmail.com for more information or to invite the project to your next event.
+Contact [pawswipe@protonmail.com](mailto:pawswipe@protonmail.com) for more information or to invite the project to your next event.
