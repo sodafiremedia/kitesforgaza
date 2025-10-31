@@ -22,8 +22,8 @@ title: The Community Kite Project for Gaza
 email: pawswipe@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog for the Community Kite Project for Gaza
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "kitesforgaza" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/kitesforgaza" # the subpath of your site, e.g. /blog
+url: "https://sodafiremedia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
