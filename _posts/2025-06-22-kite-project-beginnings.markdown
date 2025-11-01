@@ -1,5 +1,5 @@
 ---
-layout: post
+layouts: post
 title: "Kite Project Beginnings"
 date: 2025-06-22 08:00:23 -0600
 categories: process

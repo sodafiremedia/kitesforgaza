@@ -1,5 +1,5 @@
 ---
-layout: post
+layouts: post
 title:  "If I Must Die"
 date:   2025-10-31 12:51:09 -0600
 categories: If I May Die
