@@ -5,7 +5,13 @@
 layouts: home
 ---
 
-[about](./about.markdown)
+[about](./about.markdown)  //  [events](./events.markdown)  //  [donate](./donate.markdown) 
+
+### If I Must Die
+
+Refaat Alareer's poem that helped inspire the project
+
+![image of Refaat Alareer's poem If I Must Die](./img/if-I-must-die-refaat-alareer.jpeg)
 
 ### June 2025
 
@@ -16,4 +22,4 @@ in Palestine.
 Names and ages were also going to be written by hand, but with the relentless killing
 of innocent children by the IOF, writing names and ages by hand would take a lifetime.
 
-![flyer of kite project with red kites and handwritten names](./img/)
+![flyer of kite project with red kites and handwritten names](./img/first-kite-making-invite.jpg)
