@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-[home](./index.markdown)
+[home](./index.markdown)  //  about  //  [events](./events.markdown)  //  [donate](./donate.markdown)  //  [responses](./responses.markdown)
+
+
 
 ![kites hanging in a playground](./img/kites-in-front-of-playstructure.jpeg)
 

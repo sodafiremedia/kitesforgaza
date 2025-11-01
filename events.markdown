@@ -4,7 +4,9 @@ title: Events
 permalink: /events/
 ---
 
-[home](./index.markdown)
+[home](./index.markdown) // [about](./about.markdown)  //  events  //  [donate](./donate.markdown)  //  [responses](./responses.markdown)
+
+
 
 ## Previous
 

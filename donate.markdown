@@ -4,6 +4,8 @@ title: Donate
 permalink: /donate/
 ---
 
-[home](./index.markdown)
+[home](./index.markdown) // [about](./about.markdown)  //  [events](./events.markdown)  //  donate  //  [responses](./responses.markdown)
+
+
 
 ![Among The Rubble flyer](/img/Do-Something-Good-Today.png)

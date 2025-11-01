@@ -5,7 +5,7 @@
 layouts: home
 ---
 
-[about](./about.markdown)  //  [events](./events.markdown)  //  [donate](./donate.markdown) 
+[about](./about.markdown)  //  [events](./events.markdown)  //  [donate](./donate.markdown)  //  [responses](./responses.markdown)
 
 ### If I Must Die
 
