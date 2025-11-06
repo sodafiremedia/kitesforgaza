@@ -8,15 +8,17 @@ permalink: /events/
 
 ## Upcoming
 
-# Art Walk at Fusion 
+#### Art Walk at Fusion 
 Friday, Nov 7 5-9pm
 715 Gold Ave, Albuquerque, New Mexico 87102
 [event page](https://www.eventeny.com/events/artstop-market-7th-gold-23079?series=8385)
 
+#### Kite Making at the Park
 Sunday, Nov 9 2pm-sunset
 3000 Constitution Ave NE, Albuquerque, NM 87106
 [event page](https://www.instagram.com/p/DQsv63iDXaC/)
 
+#### Event with UNM4JP
 Wednesday, Dec 3 at 6:30pm
 Details to be announced
 
@@ -30,6 +32,12 @@ About a dozen people made kites and shared their feelings and strong support of 
 
 ![kite project table](./img/homegirls-mercado-table.jpeg)
 ![kites hanging up in a festival tent](./img/homegirls-mercado-kites-2.jpeg)
+
+#### Balloon Fiesta 2025
+
+In collaboration with SWC4P and UNM4JP, we displayed the kites at Albuquerque's Balloon Fiesta and let attendees know the fiesta's sponsors on the BDS list: Exxon Mobile and Coca Cola. For more information about BDS, visit: [https://bdsmovement.net](https://bdsmovement.net/)
+
+![kites at Balloon Fiesta 2025](./img/kites-balloon-fiesta.jpeg)
 
 #### Collective kite making session at an Albuquerque public library
 
