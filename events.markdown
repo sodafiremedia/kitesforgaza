@@ -8,21 +8,24 @@ permalink: /events/
 
 # Upcoming
 
-#### [Art Walk at Fusion](https://www.eventeny.com/events/artstop-market-7th-gold-23079?series=8385)
-Friday, Nov 7 5-9pm  
-715 Gold Ave, Albuquerque, New Mexico 87102 (7th & Gold)
+[![UNM 4 Justice in Palestine](./img/UNM4JP-120325.jpeg)](https://www.canva.com/design/DAG5AtjsacI/gBtFWGAjsXQGfoxIFJY2EQ/view?utm_content=DAG5AtjsacI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf3ff563802){:target="_blank"}
+
+
+[![Ahmad Alive Film Screening at the Guild Cinema](./img/AhmadAlive-121325.png)](https://www.guildcinema.com/movies/ahmad-alive){:target="_blank"}
+
+[BUY TICKETS](https://www.guildcinema.com/event-details/ahmad-alive)
+
+If you are interested to attend and/or help with upcoming events, email [pawswipe@protonmail.com](mailto:pawswipe@protonmail.com)
+
+# Previous
 
 #### [Kite Making at the Park](https://www.instagram.com/p/DQsv63iDXaC/)
 Sunday, Nov 9 2pm-sunset  
 3000 Constitution Ave NE, Albuquerque, NM 87106 (Summit Park)
 
-#### UNM4JP Event
-Wednesday, Dec 3 at 6:30pm  
-202 Harvard SE, Albuquerque, NM 87106 (Albuquerque Peace and Justice Center)
-
-If you are interested to attend and/or help with upcoming events, email [pawswipe@protonmail.com](mailto:pawswipe@protonmail.com)
-
-# Previous
+#### [Art Walk at Fusion](https://www.eventeny.com/events/artstop-market-7th-gold-23079?series=8385)
+Friday, Nov 7 5-9pm  
+715 Gold Ave, Albuquerque, New Mexico 87102 (7th & Gold)
 
 #### Espooky Homegirls Mercado
 
