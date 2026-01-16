@@ -9,13 +9,15 @@ permalink: /events/
 # Upcoming
 
 
-[![Ahmad Alive Film Screening at the Guild Cinema](./img/AhmadAlive-121325.png)](https://www.guildcinema.com/movies/ahmad-alive){:target="_blank"}
 
-[BUY TICKETS](https://www.guildcinema.com/event-details/ahmad-alive)
 
 If you are interested to attend and/or help with upcoming events, email [pawswipe@protonmail.com](mailto:pawswipe@protonmail.com)
 
 # Previous
+
+[![Ahmad Alive Film Screening at the Guild Cinema](./img/AhmadAlive-121325.png)](https://www.guildcinema.com/movies/ahmad-alive){:target="_blank"}
+
+[BUY TICKETS](https://www.guildcinema.com/event-details/ahmad-alive)
 
 [![UNM 4 Justice in Palestine](./img/UNM4JP-120325.jpeg)](https://www.canva.com/design/DAG5AtjsacI/gBtFWGAjsXQGfoxIFJY2EQ/view?utm_content=DAG5AtjsacI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf3ff563802){:target="_blank"}
 
