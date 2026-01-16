@@ -8,10 +8,12 @@ permalink: /events/
 
 # Upcoming
 
+[![We Ain't Givin Up: Winter Market and Live Music](./img/We-Aint-Givin-Up-Benefit.jpg)](https://www.instagram.com/p/DTKJ52djgb0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==){:target="_blank"}
+
+[![Ramadan Bazaar](./img/Ramadan-Bazaar.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==){:target="_blank"}
 
 
-
-If you are interested to attend and/or help with upcoming events, email [pawswipe@protonmail.com](mailto:pawswipe@protonmail.com)
+Interested to attend and/or help with upcoming events? Email [pawswipe@protonmail.com](mailto:pawswipe@protonmail.com)
 
 # Previous
 
