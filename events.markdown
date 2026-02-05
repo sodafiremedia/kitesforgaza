@@ -8,7 +8,7 @@ permalink: /events/
 
 # Upcoming
 
-[![ICE Fuera de los Barrios](./img/ICE-out-Spanish.png)](https://www.instagram.com/burquerazaunida){:target="_blank"}
+[![ICE Fuera de los Barrios](./img/ICE-out-Spanish.jpg)](https://www.instagram.com/burquerazaunida){:target="_blank"}
 [![ICE out of our Barrios](./img/ICE-out-English.png)](https://www.instagram.com/burquerazaunida){:target="_blank"}
 
 [![Ramadan Bazaar](./img/Ramadan-Bazaar.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link){:target="_blank"}
