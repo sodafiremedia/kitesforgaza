@@ -8,14 +8,14 @@ permalink: /events/
 
 # Upcoming
 
+Interested to attend and/or help with upcoming events? Email [pawswipe@protonmail.com](mailto:pawswipe@protonmail.com)
+
+# Previous
+
 [![ICE Fuera de los Barrios](./img/ICE-out-Spanish.jpg)](https://www.instagram.com/burquerazaunida){:target="_blank"}
 [![ICE out of our Barrios](./img/ICE-out-English.png)](https://www.instagram.com/burquerazaunida){:target="_blank"}
 
 [![Ramadan Bazaar](./img/Ramadan-Bazaar.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link){:target="_blank"}
-
-Interested to attend and/or help with upcoming events? Email [pawswipe@protonmail.com](mailto:pawswipe@protonmail.com)
-
-# Previous
 
 [![We Ain't Givin Up: Winter Market and Live Music](./img/We-Aint-Givin-Up-Benefit.jpg)](https://www.instagram.com/p/DTKJ52djgb0){:target="_blank"}
 
