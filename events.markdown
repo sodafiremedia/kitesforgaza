@@ -4,9 +4,9 @@ title: Events
 permalink: /events/
 ---
 
-[home](./index.markdown) // [about](./about.markdown)  //  events  //  [donate](./donate.markdown)  //  [responses](./responses.markdown)
-
 # Upcoming
+
+[![UU Installation and Press Conference](./img/CKPG-social-media.png)](https://www.instagram.com/p/DW5rHWFDuPH/){:target="_blank"}
 
 Interested to attend and/or help with upcoming events? Email [pawswipe@protonmail.com](mailto:pawswipe@protonmail.com)
 

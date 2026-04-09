@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-[home](./index.markdown)  //  about  //  [events](./events.markdown)  //  [donate](./donate.markdown)  //  [responses](./responses.markdown)
-
-
-
 ![kites hanging in a playground](./img/kites-in-front-of-playstructure.jpeg)
 
 The Community Kite Project for Gaza, a large-scale art project in Albuquerque, NM, invites community members in the creation of 21,907 small origami kites. Each kite bears the name and age of a child killed in Gaza from Oct 7, 2023-Sep 18, 2025. Grievously, this is not the  total number of children martyred by Israel's US-backed genocide against the Palestinians. 
