@@ -8,7 +8,7 @@ permalink: /events/
 
 [![UU Installation and Press Conference](./img/CKPG-social-media.png)](https://www.instagram.com/p/DW5rHWFDuPH/){:target="_blank"}
 
-Interested to attend and/or help with upcoming events? Email [pawswipe@protonmail.com](mailto:pawswipe@protonmail.com)
+Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
 
 # Previous
 
