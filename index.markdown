@@ -10,6 +10,7 @@ layouts: home
     <section>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p>posted on {{ post.date | date: '%B %d, %Y' }}</p>
+      <p>  {{post.excerpt}} </p>
     </section>
   {% endfor %}
 </ul>
