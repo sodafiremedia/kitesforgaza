@@ -6,11 +6,23 @@ permalink: /events/
 
 # Upcoming
 
-[![UU Installation and Press Conference](./img/CKPG-social-media.png)](https://www.instagram.com/p/DW5rHWFDuPH/){:target="_blank"}
+### Saturday, June 13 2-4pm MST
+#### First Unitarian Church of Albuquerque
+##### 3701 Carlisle Blvd. NE, Abq 87110
 
+### Sunday, June 28 12-2pm MST
+#### First Congregational United Church of Christ
+##### 2801 Lomas Blvd NE, Abq 87106
+
+### Saturday, October 10 2-4pm MST
+#### First Unitarian Church of Albuquerque
+##### 3701 Carlisle Blvd. NE, Abq 87110
+
+<br/><br/>
 Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
 
 # Previous
+[![UU Installation and Press Conference](./img/CKPG-social-media.png)](https://www.instagram.com/p/DW5rHWFDuPH/){:target="_blank"}
 
 [![ICE Fuera de los Barrios](./img/ICE-out-Spanish.jpg)](https://www.instagram.com/burquerazaunida){:target="_blank"}
 [![ICE out of our Barrios](./img/ICE-out-English.png)](https://www.instagram.com/burquerazaunida){:target="_blank"}
