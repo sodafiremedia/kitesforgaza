@@ -21,23 +21,20 @@
         <header>
           <h1>{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+          {% assign navlist = site.data.navigation.docs | sort: 'title'  %}
+
+          <p style="padding-top: 3%;">
+          {% for item in navlist %}
+              {% if item.title == "responses" %}
+                <a href="{{ item.url }}">{{ item.title }} </a>
+              {% else %}
+                <a href="{{ item.url }}">{{ item.title }}</a> // 
+              {% endif%}
+          {% endfor %}
+          </p>
         </header>
-        <section id="downloads" class="clearfix">
-          {% if site.show_downloads %}
-          <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
-          <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
-          {% endif %}
-	{% if site.github.public %}
-	  {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
-	  {% else %}
-          <a href="{{ site.github.owner_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
-	  {% endif %}
-	{% endif %}
-        </section>
         <hr>
         <section id="main_content">
-          <p><a href="/">home</a>  //  <a href="/about/">about</a>  //  <a href="/events/">events</a>  //  <a href="/donate/">donate</a>  //  <a href="/responses/">responses</a> // <a href="/news/">news</a> // <a href="/resources/">resources</a></p>
           <h2>{{ page.title }}</h2>
           {{ content }}
         </section>

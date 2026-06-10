@@ -1,0 +1,20 @@
+docs_list_title: site navigation
+docs:
+
+- title: blog
+  url: /
+
+- title: about
+  url: /about
+
+- title: among the rubble
+  url: /donate
+
+- title: responses
+  url: /responses
+
+- title: news
+  url: /news
+
+- title: resources
+  url: /resources
