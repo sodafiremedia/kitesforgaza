@@ -1,0 +1,42 @@
+<!-- modify this form HTML and place wherever you want your form -->
+<div data-fs-success>Thank you for your participation!</div>
+<div data-fs-error>Oopsee Daisy! There was an issue submitting your form</div>
+<form id="kite-tracking-form" enctype="multipart/form-data" method="POST">
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" data-fs-field />
+  <span data-fs-error="email"></span>
+  <label for="message">Message:</label>
+  <input type="text" id="message" name="message" data-fs-field />
+  <span data-fs-error="message"></span>
+  <label>
+  Upload pics of your event:
+  <input type="file" name="upload" accept="image/png, image/jpeg">
+  </label>
+  <input type="text" name="stick" class="opaque">
+  <button type="submit" data-fs-submit-btn>Submit</button>
+</form>
+
+<!-- Place these scripts at the end of the body tag -->
+<script>
+  window.formspree =
+    window.formspree ||
+    function () {
+      (formspree.q = formspree.q || []).push(arguments);
+    };
+  formspree("initForm", {
+    formElement: "#kite-tracking-form",
+    formId: "xwvjqvow",
+  });
+</script>
+<script src="https://unpkg.com/@formspree/ajax@1" defer></script>
+
+<style>
+  .opaque {
+    opacity: 0;
+    position: absolute;
+  }
+  form {
+    background-color: unset;
+  }
+
+</style>

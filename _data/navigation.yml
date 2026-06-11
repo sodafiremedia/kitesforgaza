@@ -3,21 +3,28 @@ docs:
 
 - title: blog
   url: /
+  weight: 2
 
 - title: about
   url: /about
+  weight: 0
 
 - title: among the rubble
   url: /donate
+  weight: 1
 
 - title: responses
   url: /responses
+  weight: 3
 
 - title: news
   url: /news
+  weight: 5
 
 - title: resources
   url: /resources
+  weight: 6
   
 - title: refaat alareer
   url: /if/i/may/die/2025/10/31/if-i-must-die.html
+  weight: 4

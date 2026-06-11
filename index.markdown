@@ -1,12 +1,10 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: "Blog"
 layouts: home
 ---
 
-#### Join Among the Rubble's Campaign to evacuate a family from Gaza while the border is open. We are at 70% of the goal. Help us reach 100%! <a href="https://chuffed.org/project/gaza-city-evacuation">DONATE TODAY</a>
-<p></p>
 <ul>
   {% for post in site.posts %}
     <section>
