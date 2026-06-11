@@ -14,7 +14,3 @@ layouts: home
     </section>
   {% endfor %}
 </ul>
-
-## Share images and testimonials of your kite event:
-
-{% include contact-form.html %}
