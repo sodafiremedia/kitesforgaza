@@ -23,8 +23,12 @@ docs:
 
 - title: resources
   url: /resources
-  weight: 6
+  weight: 7
   
-- title: refaat alareer
-  url: /if/i/may/die/2025/10/31/if-i-must-die.html
-  weight: 4
+# - title: refaat alareer
+#   url: /if/i/may/die/2025/10/31/if-i-must-die.html
+#   weight: 4
+
+- title: events
+  url: /events
+  weight: 6
