@@ -6,22 +6,21 @@ permalink: /events/
 
 # Upcoming
 
-### Saturday, June 13 2-4pm MST
-#### First Unitarian Church of Albuquerque
-##### 3701 Carlisle Blvd. NE, Abq 87110
+[![World Refugee Day 2026](./img/World_Refugee_Day2026.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link){:target="_blank"}
 
-### Sunday, June 28 12-2pm MST
-#### First Congregational United Church of Christ
-##### 2801 Lomas Blvd NE, Abq 87106
+#### Sunday, June 28 12-2pm MST
+<p>First Congregational United Church of Christ<br>2801 Lomas Blvd NE, Abq 87106</p>
 
-### Saturday, October 10 2-4pm MST
-#### First Unitarian Church of Albuquerque
-##### 3701 Carlisle Blvd. NE, Abq 87110
+#### Saturday, October 10 2-4pm MST
+<p>First Unitarian Church of Albuquerque<br>3701 Carlisle Blvd. NE, Abq 87110</p>
 
-<br/><br/>
-Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
-
+## Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
+<br>
 # Previous
+
+#### Saturday, June 13 2-4pm MST
+<p>First Unitarian Church of Albuquerque<br>3701 Carlisle Blvd. NE, Abq 87110</p>
+
 [![UU Installation and Press Conference](./img/CKPG-social-media.png)](https://www.instagram.com/p/DW5rHWFDuPH/){:target="_blank"}
 
 [![ICE Fuera de los Barrios](./img/ICE-out-Spanish.jpg)](https://www.instagram.com/burquerazaunida){:target="_blank"}
