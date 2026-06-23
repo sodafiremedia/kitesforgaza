@@ -6,8 +6,6 @@ permalink: /events/
 
 # Upcoming
 
-[![World Refugee Day 2026](./img/World_Refugee_Day2026.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link){:target="_blank"}
-
 #### Sunday, June 28 12-2pm MST
 <p>First Congregational United Church of Christ<br>2801 Lomas Blvd NE, Abq 87106</p>
 
@@ -16,7 +14,10 @@ permalink: /events/
 
 ## Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
 <br>
+
 # Previous
+
+[![World Refugee Day 2026](./img/World_Refugee_Day2026.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link){:target="_blank"}
 
 #### Saturday, June 13 2-4pm MST
 <p>First Unitarian Church of Albuquerque<br>3701 Carlisle Blvd. NE, Abq 87110</p>
