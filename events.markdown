@@ -9,6 +9,9 @@ permalink: /events/
 #### Sunday, June 28 12-2pm MST
 <p>First Congregational United Church of Christ<br>2801 Lomas Blvd NE, Abq 87106</p>
 
+#### Saturday, July 11 4-7pm MST
+<p>El Museo Cultural de Santa Fe<br>555 Camino de la Familia, Santa Fe, NM 87501</p>
+
 #### Saturday, October 10 2-4pm MST
 <p>First Unitarian Church of Albuquerque<br>3701 Carlisle Blvd. NE, Abq 87110</p>
 
