@@ -7,8 +7,6 @@ categories: process
 
 <h5>Number of kites created</h5>
 <h1>{{ site.data.stats.created }}</h1>
-<h5>Number of participants</h5>
-<h1>{{ site.data.stats.participants }}</h1>
 <h5>Number of remaining kites</h5>
 <h1>{{ site.data.stats.remaining }}</h1>
 
