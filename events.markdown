@@ -6,7 +6,7 @@ permalink: /events/
 
 # Upcoming
 
-[![El Museo Cultural de Santa Fe](./img/El-Museo-Kites-Instagram-Post.png)](https://www.instagram.com/p/DZ8DYAKlrfO){:target="_blank"}
+[![El Museo Cultural de Santa Fe](./img/El-Museo-Kites-Instagram-Post.png)](https://www.instagram.com/p/DaQFr8Tka7u/){:target="_blank"}
 
 #### Saturday, October 10 2-4pm MST
 <p>First Unitarian Church of Albuquerque<br>3701 Carlisle Blvd. NE, Abq 87110</p>
