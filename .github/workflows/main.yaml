@@ -3,25 +3,30 @@ on:
   push:
     branches:
       - main
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Build site with Jekyll
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'     # match .ruby-version or choose the desired minor version
+          cache: 'bundler'
+      - name: Install dependencies
         run: |
-          gem install bundler
-          bundle install
-          bundle exec jekyll build -d ./_site
-
+          # ensure bundler is available (setup-ruby normally provides it)
+          gem install bundler --conservative --no-document || true
+          # install gems into vendor/bundle so no system write is required
+          bundle config set path 'vendor/bundle'
+          bundle install --jobs 4 --retry 3
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build -d ./_site
       - name: Ensure CNAME in site output
         run: |
           BUILD_DIR="./_site"
