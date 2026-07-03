@@ -5,7 +5,7 @@ date: 2026-04-28 12:51:09 -0600
 categories: among_the_rubble
 
 ---
-[![Among the Rubble Collective Campaign](/img/gaza-city-evacuation-fund.jpeg)](https://chuffed.org/project/gaza-city-evacuation){:target="_blank"}
+[![Among the Rubble Collective Campaign](/assets/img/gaza-city-evacuation-fund.jpeg)](https://chuffed.org/project/gaza-city-evacuation){:target="_blank"}
 
 ## Only $54k left for the campaign! Every bit helps!
 

@@ -6,7 +6,7 @@ permalink: /events/
 
 # Upcoming
 
-[![El Museo Cultural de Santa Fe](./img/El-Museo-Kites-Instagram-Post.png)](https://www.instagram.com/p/DaQFr8Tka7u/){:target="_blank"}
+[![El Museo Cultural de Santa Fe](./assets/img/El-Museo-Kites-Instagram-Post.png)](https://www.instagram.com/p/DaQFr8Tka7u/){:target="_blank"}
 
 #### Saturday, October 10 2-4pm MST
 <p>First Unitarian Church of Albuquerque<br>3701 Carlisle Blvd. NE, Abq 87110</p>
@@ -19,25 +19,25 @@ permalink: /events/
 #### Sunday, June 28 12-2pm MST
 <p>First Congregational United Church of Christ<br>2801 Lomas Blvd NE, Abq 87106</p>
 
-[![World Refugee Day 2026](./img/World_Refugee_Day2026.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link){:target="_blank"}
+[![World Refugee Day 2026](./assets/img/World_Refugee_Day2026.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link){:target="_blank"}
 
 #### Saturday, June 13 2-4pm MST
 <p>First Unitarian Church of Albuquerque<br>3701 Carlisle Blvd. NE, Abq 87110</p>
 
-[![UU Installation and Press Conference](./img/CKPG-social-media.png)](https://www.instagram.com/p/DW5rHWFDuPH/){:target="_blank"}
+[![UU Installation and Press Conference](./assets/img/CKPG-social-media.png)](https://www.instagram.com/p/DW5rHWFDuPH/){:target="_blank"}
 
-[![ICE Fuera de los Barrios](./img/ICE-out-Spanish.jpg)](https://www.instagram.com/burquerazaunida){:target="_blank"}
-[![ICE out of our Barrios](./img/ICE-out-English.png)](https://www.instagram.com/burquerazaunida){:target="_blank"}
+[![ICE Fuera de los Barrios](./assets/img/ICE-out-Spanish.jpg)](https://www.instagram.com/burquerazaunida){:target="_blank"}
+[![ICE out of our Barrios](./assets/img/ICE-out-English.png)](https://www.instagram.com/burquerazaunida){:target="_blank"}
 
-[![Ramadan Bazaar](./img/Ramadan-Bazaar.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link){:target="_blank"}
+[![Ramadan Bazaar](./assets/img/Ramadan-Bazaar.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link){:target="_blank"}
 
-[![We Ain't Givin Up: Winter Market and Live Music](./img/We-Aint-Givin-Up-Benefit.jpg)](https://www.instagram.com/p/DTKJ52djgb0){:target="_blank"}
+[![We Ain't Givin Up: Winter Market and Live Music](./assets/img/We-Aint-Givin-Up-Benefit.jpg)](https://www.instagram.com/p/DTKJ52djgb0){:target="_blank"}
 
-[![Ahmad Alive Film Screening at the Guild Cinema](./img/AhmadAlive-121325.png)](https://www.guildcinema.com/movies/ahmad-alive){:target="_blank"}
+[![Ahmad Alive Film Screening at the Guild Cinema](./assets/img/AhmadAlive-121325.png)](https://www.guildcinema.com/movies/ahmad-alive){:target="_blank"}
 
 [BUY TICKETS](https://www.guildcinema.com/event-details/ahmad-alive)
 
-[![UNM 4 Justice in Palestine](./img/UNM4JP-120325.jpeg)](https://www.canva.com/design/DAG5AtjsacI/gBtFWGAjsXQGfoxIFJY2EQ/view?utm_content=DAG5AtjsacI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf3ff563802){:target="_blank"}
+[![UNM 4 Justice in Palestine](./assets/img/UNM4JP-120325.jpeg)](https://www.canva.com/design/DAG5AtjsacI/gBtFWGAjsXQGfoxIFJY2EQ/view?utm_content=DAG5AtjsacI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf3ff563802){:target="_blank"}
 
 #### [Kite Making at the Park](https://www.instagram.com/p/DQsv63iDXaC/)
 Sunday, Nov 9 2pm-sunset  
@@ -51,18 +51,18 @@ Friday, Nov 7 5-9pm
 
 About a dozen people made kites and shared their feelings and strong support of ending the genocide in Palestine.
 
-![kite project table](./img/homegirls-mercado-table.jpeg)
-![kites hanging up in a festival tent](./img/homegirls-mercado-kites-2.jpeg)
+![kite project table](./assets/img/homegirls-mercado-table.jpeg)
+![kites hanging up in a festival tent](./assets/img/homegirls-mercado-kites-2.jpeg)
 
 #### Balloon Fiesta 2025
 
 In collaboration with SWC4P and UNM4JP, we displayed the kites at Albuquerque's Balloon Fiesta and let attendees know the fiesta's sponsors on the BDS list: Exxon Mobile and Coca Cola. For more information about BDS, visit: [https://bdsmovement.net](https://bdsmovement.net/)
 
-![kites at Balloon Fiesta 2025](./img/kites-balloon-fiesta.jpeg)
+![kites at Balloon Fiesta 2025](./assets/img/kites-balloon-fiesta.jpeg)
 
 #### Collective kite making session at an Albuquerque public library
 
 Folding kites and sharing feelings and strong support of ending the genocide in Palestine.
 
-![hands folding kites](./img/community-making-kites-1.jpeg)
-![hands folding kites](./img/community-making-kites-2.jpeg)
+![hands folding kites](./assets/img/community-making-kites-1.jpeg)
+![hands folding kites](./assets/img/community-making-kites-2.jpeg)

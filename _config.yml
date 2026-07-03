@@ -34,6 +34,11 @@ remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-coffeescript
+
+sass:
+  style: compressed
+  sass_dir: _sass
 
 collections:
   among_the_rubble:

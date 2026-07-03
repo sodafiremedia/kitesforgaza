@@ -2,10 +2,10 @@
 layouts: post
 title: "Unitarian Universalist Church Installation"
 date: 2026-04-08 12:51:09 -0600
-categories: Installations
+categories: installations
 
 ---
-![Unitarian Universalist installation](/img/CKPG-social-media.png)
+![Unitarian Universalist installation](/assets/img/CKPG-social-media.png)
 
 The Community Kite Project for Gaza is partnering with the local Unitarian Universalist Justice in the Middle East chapter to launch a citywide campaign to commemorate the 21,907 children known to have been murdered or starved to death in the first 23 months of the Israeli genocide in Gaza - a genocide funded and backed by the U.S. government. Countless children have suffered horrific deaths since then, including children and their families killed by settlers in the West Bank.
 
