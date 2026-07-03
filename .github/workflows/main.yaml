@@ -1,7 +1,9 @@
-on: 
+name: pages-gh-pages-deploy
+on:
   push:
     branches:
       - main
+
 permissions:
   contents: read
   pages: write
@@ -20,32 +22,17 @@ jobs:
           bundle install
           bundle exec jekyll build -d ./_site
 
-      - name: Inspect built site and CNAME
-        run: |
-          set -eux
-          BUILD_DIR="./_site"
-          echo "Build dir: $BUILD_DIR"
-          ls -al "$BUILD_DIR" || true
-          find "$BUILD_DIR" -maxdepth 4 -type f -print | sed -n '1,200p' || true
-          if [ -f "$BUILD_DIR/CNAME" ]; then
-            echo "CNAME contents:"
-            cat "$BUILD_DIR/CNAME"
-          else
-            echo "No CNAME present in $BUILD_DIR"
-          fi
-
       - name: Ensure CNAME in site output
         run: |
-          set -eux
           BUILD_DIR="./_site"
           mkdir -p "$BUILD_DIR"
           echo "abqkitesforgaza.art" > "$BUILD_DIR/CNAME"
-          echo "Wrote CNAME to $BUILD_DIR/CNAME"
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v1
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: ./_site
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+          # Optional: keep existing files if you want incremental updates
+          keep_files: false
