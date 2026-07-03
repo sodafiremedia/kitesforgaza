@@ -1,0 +1,51 @@
+on: 
+  push:
+    branches:
+      - main
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build site with Jekyll
+        run: |
+          gem install bundler
+          bundle install
+          bundle exec jekyll build -d ./_site
+
+      - name: Inspect built site and CNAME
+        run: |
+          set -eux
+          BUILD_DIR="./_site"
+          echo "Build dir: $BUILD_DIR"
+          ls -al "$BUILD_DIR" || true
+          find "$BUILD_DIR" -maxdepth 4 -type f -print | sed -n '1,200p' || true
+          if [ -f "$BUILD_DIR/CNAME" ]; then
+            echo "CNAME contents:"
+            cat "$BUILD_DIR/CNAME"
+          else
+            echo "No CNAME present in $BUILD_DIR"
+          fi
+
+      - name: Ensure CNAME in site output
+        run: |
+          set -eux
+          BUILD_DIR="./_site"
+          mkdir -p "$BUILD_DIR"
+          echo "abqkitesforgaza.art" > "$BUILD_DIR/CNAME"
+          echo "Wrote CNAME to $BUILD_DIR/CNAME"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./_site
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
