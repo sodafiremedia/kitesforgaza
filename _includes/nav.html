@@ -1,0 +1,24 @@
+<div class="site-nav-wrapper">
+  <button class="nav-toggle" aria-expanded="false" aria-controls="site-navigation">
+    menu
+  </button>
+
+  <ul class="site-nav" id="site-navigation">
+    {% for item in include.nav %}
+      <li class="nav-item{% if item.subnav %} has-subnav{% endif %}">
+        {% if item.subnav %}
+          <a href="{{ item.url | default: '#' }}" class="nav-link dropdown-toggle{% if page.url == item.url %} current{% endif %}" data-dropdown-toggle="{{ forloop.index }}" aria-expanded="false">
+            {{ item.title }}
+          </a>
+          <ul class="dropdown-content" id="dropdown-{{ forloop.index }}">
+            {% for subitem in item.subnav %}
+              <li><a href="{{ subitem.url }}" class="dropdown-link{% if page.url == subitem.url %} current{% endif %}">{{ subitem.title }}</a></li>
+            {% endfor %}
+          </ul>
+        {% else %}
+          <a href="{{ item.url }}" class="nav-link{% if page.url == item.url %} current{% endif %}">{{ item.title }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>

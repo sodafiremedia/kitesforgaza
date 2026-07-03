@@ -1,0 +1,22 @@
+nav:
+  - title: about
+    subnav:
+      - title: artist statement
+        url: /about
+      - title: responses
+        url: /responses
+  - title: among the rubble
+    url: /among-the-rubble
+  - title: refaat alareer
+    url: /if/i/may/die/2025/10/31/if-i-must-die.html  
+  - title: news and events
+    subnav:
+      - title: news
+        url: /news
+      - title: events
+        url: /events
+      - title: blog
+        url: /
+  - title: resources
+    url: /resources
+        

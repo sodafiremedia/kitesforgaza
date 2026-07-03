@@ -4,6 +4,7 @@
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="/assets/css/styles.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
     <!--[if lt IE 9]>
@@ -17,21 +18,13 @@
   <body>
     <div id="container">
       <div class="inner">
-
         <header>
           <h1>{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-          {% assign navlist = site.data.navigation.docs | sort: 'weight'  %}
 
-          <p style="padding-top: 3%;">
-          {% for item in navlist %}
-              {% if item.title == "resources" %}
-                <a href="{{ item.url }}">{{ item.title }} </a>
-              {% else %}
-                <a href="{{ item.url }}">{{ item.title }}</a> // 
-              {% endif%}
-          {% endfor %}
-          </p>
+          <nav style="padding-top: 3%;">
+            {% include nav.html nav=site.data.nested.nav %}
+          </nav>
         </header>
         <hr>
         <section id="main_content">
@@ -44,10 +37,11 @@
           {{ site.title | default: site.github.repository_name }} </a><br>
         {% endif %}
         <a href="mailto:info@abqkitesforgaza.art" id="contact"><span>Contact info@abqkitesforgaza.art</span></a>&emsp;
-        <a href="https://www.instagram.com/abqkites4gaza/"><img src="/img/insta-logo.png" alt="instagram-logo" width="20" height="20" style="margin-bottom:-5px"> abqkites4gaza</a>
+        <a href="https://www.instagram.com/abqkites4gaza/"><img src="/assets/img/insta-logo.png" alt="instagram-logo" width="20" height="20" style="margin-bottom:-5px"> abqkites4gaza</a>
         </footer>
 
       </div>
     </div>
+    <script src="{{ '/assets/js/navigation.js' | relative_url }}"></script>
   </body>
 </html>
