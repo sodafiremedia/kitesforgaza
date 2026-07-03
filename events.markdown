@@ -6,9 +6,6 @@ permalink: /events/
 
 # Upcoming
 
-#### Sunday, June 28 12-2pm MST
-<p>First Congregational United Church of Christ<br>2801 Lomas Blvd NE, Abq 87106</p>
-
 [![El Museo Cultural de Santa Fe](./img/El-Museo-Kites-Instagram-Post.png)](https://www.instagram.com/p/DZ8DYAKlrfO){:target="_blank"}
 
 #### Saturday, October 10 2-4pm MST
@@ -18,6 +15,9 @@ permalink: /events/
 <br>
 
 # Previous
+
+#### Sunday, June 28 12-2pm MST
+<p>First Congregational United Church of Christ<br>2801 Lomas Blvd NE, Abq 87106</p>
 
 [![World Refugee Day 2026](./img/World_Refugee_Day2026.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link){:target="_blank"}
 
