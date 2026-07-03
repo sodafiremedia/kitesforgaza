@@ -14,7 +14,7 @@ The project was inspired by renowned Palestinian poet and literature professor R
 
 This project raises funds for families via the [Among the Rubble Collective](https://www.instagram.com/amongtherubblecollective/), continues to bring awareness to the magnitude of this atrocity, and moreover, remembers and honors each child. 
 
-Currently, the kite project has folded over 1,000 kites completed by dozens of community members, and local organizations. Every person who has participated in the project has been deeply moved by the process and intent of the project. We have engaged participants at public events across the city and have experienced overwhelming support. 
+Currently, the kite project has folded over 2,000 kites completed by hundreds of community members, and local organizations. Every person who has participated in the project has been deeply moved by the process and intent of the project. We have engaged participants at public events across the city and have experienced overwhelming support. 
 
 Because many of Gaza's institutions have been destroyed during the genocide, the kite project is looking for public institutions to display the kites. Eventually, images of the displayed kites across Albuquerque will be shown together with the kites in an exhibit yet to be determined.
 
