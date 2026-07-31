@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+### 505omatic
+###### Austin Fisher, July 10, 2026
+<br>
+[![505omatic](./assets/img/505omatic.jpg)](https://www.instagram.com/reel/DanP62CRZSJ){:target="_blank"}
+
 ### New Mexico Daily Lobo VIDEO STORY
 ###### Leila Chapa, June 21, 2026
 <br>
