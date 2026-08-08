@@ -3,6 +3,7 @@ layouts: post
 title: "The Kite Project's One Year Anniversary"
 date: 2026-06-10 11:05:13 -0600
 categories: process
+excerpt: "A year into the project, what have we accomplished?"
 ---
 
 <h5>Number of kites created</h5>

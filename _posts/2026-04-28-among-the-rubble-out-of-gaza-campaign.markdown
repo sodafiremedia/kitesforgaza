@@ -3,6 +3,7 @@ layouts: post
 title: "Among The Rubble Collective - Gaza City Evacuation Campaign"
 date: 2026-04-28 12:51:09 -0600
 categories: among_the_rubble
+excerpt: "We honor the innocent but never forget to support those living at the same time."
 
 ---
 [![Among the Rubble Collective Campaign](/assets/img/gaza-city-evacuation-fund.jpeg)](https://chuffed.org/project/gaza-city-evacuation){:target="_blank"}

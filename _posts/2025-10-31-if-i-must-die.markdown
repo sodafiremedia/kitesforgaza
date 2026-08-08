@@ -3,6 +3,7 @@ layouts: post
 title:  "Refaat Alareer's poem If I Must Die"
 date:   2025-10-31 12:51:09 -0600
 categories: If I May Die
+excerpt: "Read Refaat Alareer's poem If I Must Die"
 ---
 
 <h1>If I Must Die</h1>

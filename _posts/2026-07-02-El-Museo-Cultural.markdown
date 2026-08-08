@@ -3,6 +3,7 @@ layouts: post
 title: "Installation at El Museo Cultural de Santa Fe"
 date: 2026-07-02 22:28:08 -0600
 categories: installations
+excerpt: "Check out our upcoming event in Santa Fe, NM at El Museo Cultural de Santa Fe."
 ---
 
 ![El Museo Cultural de Santa Fe](/assets/img/El-Museo-Kites-Instagram-Post.png)

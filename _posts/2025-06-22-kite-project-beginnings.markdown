@@ -3,6 +3,7 @@ layouts: post
 title: "Kite Project Beginnings"
 date: 2025-06-22 08:00:23 -0600
 categories: process
+excerpt: "How did the kite project begin?"
 ---
 
 The Kite Project started in June 2025. Initially, kites were made with red

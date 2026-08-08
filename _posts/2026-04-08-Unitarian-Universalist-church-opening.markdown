@@ -3,6 +3,7 @@ layouts: post
 title: "Unitarian Universalist Church Installation"
 date: 2026-04-08 12:51:09 -0600
 categories: installations
+excerpt: "The kite's inaugural display at the Unitarian Universalist Church in Albuquerque, NM."
 
 ---
 ![Unitarian Universalist installation](/assets/img/CKPG-social-media.png)
