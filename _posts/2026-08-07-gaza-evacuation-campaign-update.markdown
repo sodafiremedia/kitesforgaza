@@ -3,6 +3,7 @@ layouts: post
 title:  "Among the Rubble Collective's Gaza City Evacuation Campaign Update"
 date:   2026-08-07 12:51:09 -0600
 categories: among_the_rubble
+excerpt: "Read this important, time-sensitive post by Noor from Among the Rubble Collective's Gaza City Evacuation Campaign and how you can help!"
 ---
 
 <h5>by Noor</h5><p></p>
