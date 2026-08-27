@@ -7,22 +7,26 @@ permalink: /events/
 # Upcoming
 [![La Raza Memorial 2026](./assets/img/LRU-La-Raza-Memorial-2026.jpg)](https://www.instagram.com/p/DcCdJ7rPz4G/){:target="_blank"}
 
-#### Saturday, October 10 2-4pm MST
+
+## Monday, September 21
+<p>with <a href='https://www.instagram.com/sally_cascade_crafts'>Craftivism</a><br><em>Details TBD</em></p>
+
+## Saturday, October 10 2-4pm MST
 <p>First Unitarian Church of Albuquerque<br>3701 Carlisle Blvd. NE, Abq 87110</p>
 
-## Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
+#### Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
 <br>
 
 # Previous
 
 [![El Museo Cultural de Santa Fe](./assets/img/El-Museo-Kites-Instagram-Post.png)](https://www.instagram.com/p/DaQFr8Tka7u/){:target="_blank"}
 
-#### Sunday, June 28 12-2pm MST
+## Sunday, June 28 12-2pm MST
 <p>First Congregational United Church of Christ<br>2801 Lomas Blvd NE, Abq 87106</p>
 
 [![World Refugee Day 2026](./assets/img/World_Refugee_Day2026.jpg)](https://www.instagram.com/p/DSyBDpej79D/?utm_source=ig_web_copy_link){:target="_blank"}
 
-#### Saturday, June 13 2-4pm MST
+## Saturday, June 13 2-4pm MST
 <p>First Unitarian Church of Albuquerque<br>3701 Carlisle Blvd. NE, Abq 87110</p>
 
 [![UU Installation and Press Conference](./assets/img/CKPG-social-media.png)](https://www.instagram.com/p/DW5rHWFDuPH/){:target="_blank"}
@@ -40,28 +44,28 @@ permalink: /events/
 
 [![UNM 4 Justice in Palestine](./assets/img/UNM4JP-120325.jpeg)](https://www.canva.com/design/DAG5AtjsacI/gBtFWGAjsXQGfoxIFJY2EQ/view?utm_content=DAG5AtjsacI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf3ff563802){:target="_blank"}
 
-#### [Kite Making at the Park](https://www.instagram.com/p/DQsv63iDXaC/)
+## [Kite Making at the Park](https://www.instagram.com/p/DQsv63iDXaC/)
 Sunday, Nov 9 2pm-sunset  
 3000 Constitution Ave NE, Albuquerque, NM 87106 (Summit Park)
 
-#### [Art Walk at Fusion](https://www.eventeny.com/events/artstop-market-7th-gold-23079?series=8385)
+## [Art Walk at Fusion](https://www.eventeny.com/events/artstop-market-7th-gold-23079?series=8385)
 Friday, Nov 7 5-9pm  
 715 Gold Ave, Albuquerque, New Mexico 87102 (7th & Gold)
 
-#### Espooky Homegirls Mercado
+## Espooky Homegirls Mercado
 
 About a dozen people made kites and shared their feelings and strong support of ending the genocide in Palestine.
 
 ![kite project table](./assets/img/homegirls-mercado-table.jpeg)
 ![kites hanging up in a festival tent](./assets/img/homegirls-mercado-kites-2.jpeg)
 
-#### Balloon Fiesta 2025
+## Balloon Fiesta 2025
 
 In collaboration with SWC4P and UNM4JP, we displayed the kites at Albuquerque's Balloon Fiesta and let attendees know the fiesta's sponsors on the BDS list: Exxon Mobile and Coca Cola. For more information about BDS, visit: [https://bdsmovement.net](https://bdsmovement.net/)
 
 ![kites at Balloon Fiesta 2025](./assets/img/kites-balloon-fiesta.jpeg)
 
-#### Collective kite making session at an Albuquerque public library
+## Collective kite making session at an Albuquerque public library
 
 Folding kites and sharing feelings and strong support of ending the genocide in Palestine.
 
