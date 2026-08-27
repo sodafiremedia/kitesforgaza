@@ -5,6 +5,7 @@ permalink: /events/
 ---
 
 # Upcoming
+[![La Raza Memorial 2026](./assets/img/LRU-La-Raza-Memorial-2026.jpg)](https://www.instagram.com/p/DcCdJ7rPz4G/){:target="_blank"}
 
 #### Saturday, October 10 2-4pm MST
 <p>First Unitarian Church of Albuquerque<br>3701 Carlisle Blvd. NE, Abq 87110</p>
