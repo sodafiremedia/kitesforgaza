@@ -5,8 +5,6 @@ permalink: /events/
 ---
 
 # Upcoming
-[![La Raza Memorial 2026](./assets/img/LRU-La-Raza-Memorial-2026.jpg)](https://www.instagram.com/p/DcCdJ7rPz4G/){:target="_blank"}
-
 
 ## Monday, September 21
 <p>with <a href='https://www.instagram.com/sally_cascade_crafts'>Craftivism</a><br><em>Details TBD</em></p>
@@ -18,6 +16,7 @@ permalink: /events/
 <br>
 
 # Previous
+[![La Raza Memorial 2026](./assets/img/LRU-La-Raza-Memorial-2026.jpg)](https://www.instagram.com/p/DcCdJ7rPz4G/){:target="_blank"}
 
 [![El Museo Cultural de Santa Fe](./assets/img/El-Museo-Kites-Instagram-Post.png)](https://www.instagram.com/p/DaQFr8Tka7u/){:target="_blank"}
 
