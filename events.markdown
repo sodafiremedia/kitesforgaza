@@ -6,8 +6,8 @@ permalink: /events/
 
 # Upcoming
 
-## Monday, September 21 5pm
-<p>with <a href='https://www.instagram.com/sally_cascade_crafts'>Craftivism</a><br><em>Details TBD</em></p>
+## Monday, September 21 5:30pm
+[![Craftivism](./assets/img/Craftivism-092126.PNG)](https://www.instagram.com/p/DdUwDfvgVaD/){:target="_blank"}
 
 ## Saturday, October 3 11am-5pm
 <a href='https://www.abqzf.com'>ABQ Zine Fest XV</a> in partnership with <a href='https://www.blackrosefed.org'>Black Rose Anarchist Federation</a>
