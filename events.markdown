@@ -6,19 +6,20 @@ permalink: /events/
 
 # Upcoming
 
-## Monday, September 21 5:30pm
-[![Craftivism](./assets/img/Craftivism-092126.PNG)](https://www.instagram.com/p/DdUwDfvgVaD/){:target="_blank"}
+## Saturday, October 3 3-5pm
+[![Dia de los Muertos exhibit](./assets/img/GGH-DDLM-sm.png)](https://www.visitalbuquerque.org/event/exhibit-opening%3a-dia-de-los-muertos-ofrendas-comunitarias-%26-cultural-traditions/65509){:target="_blank"}
 
 ## Saturday, October 3 11am-5pm
 <a href='https://www.abqzf.com'>ABQ Zine Fest XV</a> in partnership with <a href='https://www.blackrosefed.org'>Black Rose Anarchist Federation</a>
-
-## Saturday, October 10 2-4pm MST
-<p>First Unitarian Church of Albuquerque<br>3701 Carlisle Blvd. NE, Abq 87110</p>
 
 #### Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
 <br>
 
 # Previous
+
+## Monday, September 21 5:30pm
+[![Craftivism](./assets/img/Craftivism-092126.PNG)](https://www.instagram.com/p/DdUwDfvgVaD/){:target="_blank"}
+
 [![La Raza Memorial 2026](./assets/img/LRU-La-Raza-Memorial-2026.jpg)](https://www.instagram.com/p/DcCdJ7rPz4G/){:target="_blank"}
 
 [![El Museo Cultural de Santa Fe](./assets/img/El-Museo-Kites-Instagram-Post.png)](https://www.instagram.com/p/DaQFr8Tka7u/){:target="_blank"}
