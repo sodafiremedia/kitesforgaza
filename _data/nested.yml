@@ -2,7 +2,7 @@ nav:
   - title: about
     subnav:
       - title: artist statement
-        url: /about
+        url: /
       - title: responses
         url: /responses
   - title: among the rubble
@@ -16,7 +16,7 @@ nav:
       - title: events
         url: /events
       - title: blog
-        url: /
+        url: /blog
   - title: resources
     url: /resources
         
