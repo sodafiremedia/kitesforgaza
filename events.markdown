@@ -9,7 +9,7 @@ permalink: /events/
 ## Tuesday, October 20 9:30am-noon
 [![2026 Freedom Convoy USA](./assets/img/2026-Freedom-Convoy-USA.png)](https://www.instagram.com/p/Dee4b2KsTAv){:target="_blank"}
 
-Community Kite Project for Gaza is helping to promote this historic and important event - 2026 Freedom Convoy USA. This event is sponsored by <a href='https://www.instagram.com/swc4palestine/'>Southwest Coalition for Palestine</a>, <a href='https://www.instagram.com/amongtherubblecollective'>Among the Rubble Collective</a>, and <a href='https://www.instagram.com/jvpalb'>JVP Albuquerque</a>. 
+Community Kite Project for Gaza is helping to promote this historic and important event - 2026 Freedom Convoy USA. This event is sponsored by <a href='https://www.instagram.com/swc4palestine/' target='_blank'>Southwest Coalition for Palestine</a>, <a href='https://www.instagram.com/amongtherubblecollective' target='_blank'>Among the Rubble Collective</a>, and <a href='https://www.instagram.com/jvpalb' target='_blank'>JVP Albuquerque</a>. 
 
 #### Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
 <br>
