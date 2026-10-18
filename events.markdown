@@ -6,16 +6,18 @@ permalink: /events/
 
 # Upcoming
 
-## Saturday, October 3 3-5pm
-[![Dia de los Muertos exhibit](./assets/img/GGH-DDLM-sm.png)](https://www.visitalbuquerque.org/event/exhibit-opening%3a-dia-de-los-muertos-ofrendas-comunitarias-%26-cultural-traditions/65509){:target="_blank"}
 
-## Saturday, October 3 11am-5pm
-<a href='https://www.abqzf.com'>ABQ Zine Fest XV</a> in partnership with <a href='https://www.blackrosefed.org'>Black Rose Anarchist Federation</a>
 
 #### Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
 <br>
 
 # Previous
+
+## Saturday, October 3 3-5pm
+[![Dia de los Muertos exhibit](./assets/img/GGH-DDLM-sm.png)](https://www.visitalbuquerque.org/event/exhibit-opening%3a-dia-de-los-muertos-ofrendas-comunitarias-%26-cultural-traditions/65509){:target="_blank"}
+
+## Saturday, October 3 11am-5pm
+<a href='https://www.abqzf.com'>ABQ Zine Fest XV</a> in partnership with <a href='https://www.blackrosefed.org'>Black Rose Anarchist Federation</a>
 
 ## Monday, September 21 5:30pm
 [![Craftivism](./assets/img/Craftivism-092126.PNG)](https://www.instagram.com/p/DdUwDfvgVaD/){:target="_blank"}
