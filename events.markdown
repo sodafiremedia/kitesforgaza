@@ -6,15 +6,20 @@ permalink: /events/
 
 # Upcoming
 
-## Tuesday, October 20 9:30am-noon
-[![2026 Freedom Convoy USA](./assets/img/2026-Freedom-Convoy-USA.png)](https://www.instagram.com/p/Dee4b2KsTAv){:target="_blank"}
+## Friday, November 6 6-8pm
+[![Muslims in S.T.E.A.M.](./assets/img/Muslims-in-S.T.E.A.M-Explora.png)](https://www.instagram.com/p/Der5wg4ICW0){:target="_blank"}
 
-Community Kite Project for Gaza is helping to promote this historic and important event - 2026 Freedom Convoy USA. This event is sponsored by <a href='https://www.instagram.com/swc4palestine/' target='_blank'>Southwest Coalition for Palestine</a>, <a href='https://www.instagram.com/amongtherubblecollective' target='_blank'>Among the Rubble Collective</a>, and <a href='https://www.instagram.com/jvpalb' target='_blank'>JVP Albuquerque</a>. 
+CKPG will be tabling at this event Muslims in S.T.E.A.M. put on by <a href='https://www.instagram.com/pillarseventsnm' target='_blank'>Pillars Events NM</a>. This is a family-friendly, free event at Explora. We will be folding kites and learning the science behind what makes a kite fly!
 
 #### Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
 <br>
 
 # Previous
+
+## Tuesday, October 20 9:30am-noon
+[![2026 Freedom Convoy USA](./assets/img/2026-Freedom-Convoy-USA.png)](https://www.instagram.com/p/Dee4b2KsTAv){:target="_blank"}
+
+Community Kite Project for Gaza is helping to promote this historic and important event - 2026 Freedom Convoy USA. This event is sponsored by <a href='https://www.instagram.com/swc4palestine/' target='_blank'>Southwest Coalition for Palestine</a>, <a href='https://www.instagram.com/amongtherubblecollective' target='_blank'>Among the Rubble Collective</a>, and <a href='https://www.instagram.com/jvpalb' target='_blank'>JVP Albuquerque</a>. 
 
 ## Saturday, October 3 3-5pm
 [![Dia de los Muertos exhibit](./assets/img/GGH-DDLM-sm.png)](https://www.visitalbuquerque.org/event/exhibit-opening%3a-dia-de-los-muertos-ofrendas-comunitarias-%26-cultural-traditions/65509){:target="_blank"}

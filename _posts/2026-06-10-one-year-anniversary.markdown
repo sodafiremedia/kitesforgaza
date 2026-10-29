@@ -13,4 +13,6 @@ excerpt: "A year into the project, what have we accomplished?"
 
 <p>For the past year, the Community Kite Project for Gaza has created nearly 2,000 kites by the hands of hundreds of community members. We have held kite folding sessions at ArtWalk, First Unitarian Church, Gorden Bernell Charter School, and in people's homes. As we enter the project's second year, we are scheduling more kite folding events at Albuquerque's World Refugee Day, First Congregational Church, and El Museo Cultural de Santa Fe.</p>
 
-<p>We continue to work with Among the Rubble Collective to help them raise funds for families in Gaza. Among the Rubble is currently trying to evacuate a family of 12 while the border crossing is open. <strong>We are at 70% of the goal. Help us reach 100%! <a href="https://chuffed.org/project/gaza-city-evacuation">DONATE TODAY</a></strong>.</p>
+<p>We continue to work with Among the Rubble Collective to help them raise funds for families in Gaza. Among the Rubble is currently trying to evacuate a family of 12 while the border crossing is open. <strong>We are at 70% of the goal. Help us reach 100%!</strong></p>
+
+<p><button><a href='https://chuffed.org/project/gaza-city-evacuation' target='_blank'>Visit the Campaign</a></button></p>
