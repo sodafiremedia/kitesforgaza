@@ -6,7 +6,7 @@ category: about
 order: 1
 ---
 
-![kites hanging in a playground](./assets/img/sandias-with-kites.jpg)
+![kites hanging in a playground](./assets/img/CKPG-graphic-cropped.jpeg)
 
 The Community Kite Project for Gaza, a large-scale public art project in so-called Albuquerque, NM, invites community members in the creation of 21,907 small origami kites. Each kite honors a child killed in Gaza during the first 23 months of the genocide and bears their name and age. Grievously, this is not the total number of children martyred by Israel’s US-backed ongoing genocide against the Palestinians. 
 
