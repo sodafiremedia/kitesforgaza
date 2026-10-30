@@ -121,3 +121,21 @@
 .dropdown-link:hover {
   background-color: #f7f7f7;
 }
+
+.icon {
+  left: 95%;
+  bottom: 50px;
+  position: fixed;
+}
+
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+
+.fade-out {
+  animation-name: fadeOut;
+  animation-timeline: view();
+  // animation-range: entry 100% exit 0%;
+}
