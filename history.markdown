@@ -21,7 +21,8 @@ The artist of CKPG, Sarah Ruth Finkel, started this project by taking a list of 
 
 <p>Originally, the kites were folded in red to signify the red line. After conversations with a local Palestinian-American community organizer, it was agreed upon that white was more appropriate to honor the children.</p>
 
-<img src="./assets/img/" >
+<img src="./assets/img/kites-balloon-fiesta.jpeg" >
+
 <p>After realizing that it would take more than her entire life to handwrite all the names, she decided to work with a friend who ran a print shop on printing the names on the kites. It took some time to get the template just right so that when people are folding the kites, the name would link up.</p>
 
 <p>Since this time, hundreds of people in Albuquerque and some in Santa Fe have helped to fold over 3,000 kites. The kites have been displayed in a Unitarian church in Albuquerque, Santa Fe museum and a historical landmark and museum. The project has been taken to 5th grade classrooms, people's homes, various community events. </p>
