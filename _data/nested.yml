@@ -3,6 +3,8 @@ nav:
     subnav:
       - title: artist statement
         url: /
+      - title: history
+        url: /history
       - title: responses
         url: /responses
   - title: among the rubble
