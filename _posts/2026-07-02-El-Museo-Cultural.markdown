@@ -14,4 +14,4 @@ excerpt: "Check out our upcoming event in Santa Fe, NM at El Museo Cultural de S
 
 <p>We aim to make over 1,000 kites during this event. The pledge drive is to help continue raising funds for Among the Rubble Collective who is currently trying to evacuate a family of 12 while the border crossing is open. <strong>We are at 70% of the goal. Help us reach 100%!</strong></p> 
 
-<p><button><a href='https://chuffed.org/project/gaza-city-evacuation' target='_blank'>Visit the Campaign</a></button></p>
+<p>< class='donation-btn'><a href='https://chuffed.org/project/gaza-city-evacuation' target='_blank'>Visit the Campaign</a></></p>

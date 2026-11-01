@@ -21,4 +21,4 @@ excerpt: "The community stands strong for Palestine"
 
 <p>We continue to work with Among the Rubble Collective to help them raise funds for families in Gaza. Among the Rubble is currently trying to evacuate a family of 12 while the border crossing is open. <strong>We are at 73% of the goal. Help us reach 100%!</strong></p>
 
-<p><button><a href='https://chuffed.org/project/gaza-city-evacuation' target='_blank'>Visit the Campaign</a></button></p>
+<p><button class='donation-btn'><a href='https://chuffed.org/project/gaza-city-evacuation' target='_blank'>Visit the Campaign</a></button></p>

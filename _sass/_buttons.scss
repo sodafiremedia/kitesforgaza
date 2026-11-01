@@ -1,4 +1,4 @@
-button {
+.donation-btn {
   background-color: #f0f0f0;
   border: 1px solid #ccc;
   border-radius: 6px;
@@ -7,20 +7,17 @@ button {
   text-decoration: none;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   font-size: 1rem;
-}
-
-button > a {
-  color: #333;
-  text-decoration: none;
-}
-
-button:hover {
-  background-color: #d5000d;
-  border-color: #999;
   cursor: pointer;
 }
 
-button:hover > a {
-  color: #fff;
-  text-decoration: none;
-}
+// .donation-btn > a:hover {
+//   color: #333;
+//   text-decoration: none;
+// }
+
+// .donation-btn:hover {
+//   background-color: #c4c2c2;
+//   border-color: #999;
+// }
+
+/* Removed .donation-btn:hover > a for better HTML semantics and compatibility */

@@ -10,4 +10,4 @@ permalink: /among-the-rubble
   <p>posted on {{ post.date | date: '%B %d, %Y' }}</p>
   <p>{{ post.excerpt }}</p>
 {% endfor %}
-<button><a href='https://chuffed.org/project/gaza-city-evacuation' target='_blank'>Visit the Campaign</a></button>
+<button class='donation-btn'><a href='https://chuffed.org/project/gaza-city-evacuation' target='_blank'>Visit the Campaign</a></button>
