@@ -10,14 +10,11 @@
   cursor: pointer;
 }
 
-// .donation-btn > a:hover {
-//   color: #333;
-//   text-decoration: none;
-// }
+.donation-btn:active{
+  color: #fff;
+  background-color: #ccc;
+  text-decoration: none;
+}
 
-// .donation-btn:hover {
-//   background-color: #c4c2c2;
-//   border-color: #999;
-// }
 
 /* Removed .donation-btn:hover > a for better HTML semantics and compatibility */
