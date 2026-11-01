@@ -23,4 +23,4 @@ The artist of CKPG, Sarah Ruth Finkel, started this project by taking a list of 
 
 <p>After realizing that it would take more than her entire life to handwrite all the names, she decided to work with a friend who ran a print shop on printing the names on the kites. It took some time to get the template just right so that when people are folding the kites, the name would link up.</p>
 
-<p>Since this time, hundreds of people in Albuquerque and some in Santa Fe have helped to fold over 3,000 kites. </p>
+<p>Since this time, hundreds of people in Albuquerque and some in Santa Fe have helped to fold over 3,000 kites. The kites have been displayed in Unitarian church, Santa Fe museum and nor a historical landmark and museum.</p>
