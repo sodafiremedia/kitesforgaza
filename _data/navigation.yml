@@ -33,6 +33,6 @@ docs:
   url: /events
   weight: 6
   
-- title: history
-  url: /history
+- title: about
+  url: /about
   weight: 6
