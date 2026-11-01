@@ -21,7 +21,7 @@ The artist of CKPG, Sarah Ruth Finkel, started this project by taking a list of 
 
 <p>Originally, the kites were folded in red to signify the red line. After conversations with a local Palestinian-American community organizer, it was agreed upon that white was more appropriate to honor the children.</p>
 
-<img src="./assets/img/kites-balloon-fiesta.jpeg" >
+<img src="" >
 
 <p>After realizing that it would take more than her entire life to handwrite all the names, she decided to work with a friend who ran a print shop on printing the names on the kites. It took some time to get the template just right so that when people are folding the kites, the name would link up.</p>
 
