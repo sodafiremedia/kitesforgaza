@@ -10,7 +10,7 @@ order: 1
 
 The Community Kite Project for Gaza, a large-scale public art project in so-called Albuquerque, NM, invites community members in the creation of 21,907 small origami kites. Each kite honors a child killed in Gaza during the first 23 months of the genocide and bears their name and age. Grievously, this is not the total number of children martyred by Israel’s US-backed ongoing genocide against the Palestinians. 
 
-On Aug 23, 2026, the ‘Israeli’ Ministry of ‘Defense’ said that “We will treat the kites that children play with in Gaza as an act of war.” The <a href='https://www.middleeastmonitor.com/20260825-un-decries-outrageous-israeli-threat-to-expel-gazans-over-kite-flying'>UN Human Rights Office called this announcement 'outrageous'</a>. Two children have been killed for flying kites since this statement. 
+On Aug 23, 2026, the ‘Israeli’ Ministry of ‘Defense’ said that “We will treat the kites that children play with in Gaza as an act of war.” The <a href='https://www.middleeastmonitor.com/20260825-un-decries-outrageous-israeli-threat-to-expel-gazans-over-kite-flying'>UN Human Rights Office called this announcement 'outrageous'</a>.
 
 CKPG was inspired by renowned Palestinian poet and literature professor Refaat Alareer's poem "[If I Must Die](_posts/2025-10-31-if-i-must-die.markdown)". Professor Alareer was tragically killed during the genocide along with several of his family members. 
 
