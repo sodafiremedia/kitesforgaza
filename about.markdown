@@ -23,6 +23,10 @@ The artist of CKPG, Sarah Ruth Finkel, started this project by taking a list of 
 
 <img src="/assets/img/kites-balloon-fiesta.jpeg" >
 
-<p>After realizing that it would take more than her entire life to handwrite all the names, she decided to work with a friend who ran a print shop on printing the names on the kites. It took some time to get the template just right so that when people are folding the kites, the name would link up.</p>
+<p>After realizing that it would take more than her entire life to handwrite all the names, she decided to work with a friend from <a href='https://neroink.net/'>Nero Ink</a> in Chicago to print the names and ages on the kites. It took many iterations to get the template just right so that when people folded the kites, the name would come together across the kite.</p>
 
-<p>Since this time, hundreds of people in Albuquerque and some in Santa Fe have helped to fold over 3,000 kites. The kites have been displayed in a Unitarian church in Albuquerque, Santa Fe museum and a historical landmark and museum. The project has been taken to 5th grade classrooms, people's homes, various community events. </p>
+<img src='/assets/img/kite-folding-closeup-UU-church.jpg'>
+
+Since this time, hundreds of people in Albuquerque and some in Santa Fe have helped to fold over 3,000 kites. The kites had their initial public display at the [First Unitarian Church of Albuquerque in April 2026](_posts/2026-04-08-Unitarian-Universalist-church-opening.markdown). A little over 1,000 kites were displayed. Then in July of this year, we displayed about 2,000 kites and folded 438 during the opening at [El Museo Cultural de Santa Fe](_posts/2026-07-02-El-Museo-Cultural.markdown). Our most recent display is at the historic [Guitérrez-Hubble House](_posts/2026-09-30-dia-de-los-muertos-at-GHH.markdown) for their annual Día de los Muertos exhibition.
+
+The project has been taken to schools (5th graders to high school), people's homes, various community events. It continues to grow simply because of the outpouring of support from so many individuals believing in their hearts what a Free Palestine means for the entire world. 
