@@ -4,17 +4,22 @@ title: Events
 permalink: /events/
 ---
 
-# Upcoming
+# Ongoing
 
-## Friday, November 6 6-8pm
-[![Muslims in S.T.E.A.M.](./assets/img/Muslims-in-S.T.E.A.M-Explora.png)](https://www.instagram.com/p/Der5wg4ICW0){:target="_blank"}
+## Tuesdays and Fridays 10am-noon
+[![Albuquerque Center for Peace and Justice](/assets/img/PNJ-announcement-insta.jpg)](_posts/2026-10-28-artist-residency-peace-and-justice-albuquerque.markdown){:target="_blank"}
 
-CKPG will be tabling at this event Muslims in S.T.E.A.M. put on by <a href='https://www.instagram.com/pillarseventsnm' target='_blank'>Pillars Events NM</a>. This is a family-friendly, free event at Explora. We will be folding kites and learning the science behind what makes a kite fly!
+# Upcoming Special Events
 
 #### Interested to attend and/or help with upcoming events? Email [info@abqkitesforgaza.art](mailto:info@abqkitesforgaza.art)
 <br>
 
 # Previous
+
+## Friday, November 6 6-8pm
+[![Muslims in S.T.E.A.M.](./assets/img/Muslims-in-S.T.E.A.M-Explora.png)](https://www.instagram.com/p/Der5wg4ICW0){:target="_blank"}
+
+CKPG will be tabling at this event Muslims in S.T.E.A.M. put on by <a href='https://www.instagram.com/pillarseventsnm' target='_blank'>Pillars Events NM</a>. This is a family-friendly, free event at Explora. We will be folding kites and learning the science behind what makes a kite fly!
 
 ## Tuesday, October 20 9:30am-noon
 [![2026 Freedom Convoy USA](./assets/img/2026-Freedom-Convoy-USA.png)](https://www.instagram.com/p/Dee4b2KsTAv){:target="_blank"}
